@@ -29,6 +29,6 @@ df["radius"] = star_radius
 df["mass"] = star_mass
 df["Gravity"] = gravity
 print(df)
-df.to_csv("star_with_gravity.csv")
+df.to_csv("project-131.csv")
 
 
